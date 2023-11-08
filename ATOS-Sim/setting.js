@@ -111,6 +111,14 @@ soundData =
  ["sound/t-hatsu.wav", "発・津"],
  ["sound/t-kakuekiteisha.wav", "各駅停車・津"],
  ["sound/t-fuchuuhonnmachiyukidesu.wav", "府中本町行きです・津"],
+ ["sound/t-10ji.wav", "10時・津"],
+ ["sound/t-40min.wav", "40分・津"],
+ ["sound/t-mamonaku.wav", "まもなく・津"],
+ ["sound/t-1bannsennni.wav", "1番線に・津"],
+ ["sound/t-fuchuuhonnmachiyukigamairimasu.wav", "府中本町行きが参ります・津"],
+ ["sound/t-abunaidesukara.wav", "危ないですから・津"],
+ ["sound/t-kiiroisennmade.wav", "黄色い線まで・津"],
+ ["sound/t-osagarikudasai.wav", "お下がりください・津"]
 
  ["sound/null-250.mp3", "(無音0.25秒)"],
  ["sound/null-500.mp3", "(無音0.5秒)"],
